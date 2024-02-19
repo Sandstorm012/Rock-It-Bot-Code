@@ -1,6 +1,6 @@
 //Haley Stewart
-//Basic motor control with forward, backward, left and right movement of two motors.
-//Inputs sample distance data from ultrasonic sensors and adjusts accordingly
+//2/19/2024
+// Trials to find right camera width for Pixy2
 
 #include <Servo.h>
 #include <Pixy2.h>
